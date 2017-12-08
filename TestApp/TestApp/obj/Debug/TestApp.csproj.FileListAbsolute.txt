@@ -12,3 +12,17 @@ C:\Users\TTCore\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\TestApp.Prop
 C:\Users\TTCore\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
 C:\Users\TTCore\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\TestApp.exe
 C:\Users\TTCore\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\MainWindow.g.cs
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\App.g.cs
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\MainWindow.baml
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\TestApp.g.resources
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\LJobson\Documents\GitHub\TestRepo\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
