@@ -97,7 +97,6 @@ namespace TestApp
         {
             // Parse csproj xml file for related files
             XML
-
         }
     }
 }
